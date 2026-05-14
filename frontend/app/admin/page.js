@@ -7,6 +7,8 @@ const modules = [
   { title: "Antes y despues", description: "Preparado para comparar imagenes de obras.", icon: ImagePlus }
 ];
 
+
+
 export default function AdminPage() {
   return (
     <main className="min-h-screen bg-brand-light py-14">

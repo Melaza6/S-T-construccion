@@ -17,6 +17,8 @@ export default function Contact() {
             <p className="flex items-center gap-3 text-zinc-700"><Mail className="text-brand-red" />contacto@stconstruccion.com</p>
             <p className="flex items-center gap-3 text-zinc-700"><MapPin className="text-brand-red" />Cali, Valle del Cauca</p>
           </div>
+
+          
         </div>
         <ContactForm />
       </div>
